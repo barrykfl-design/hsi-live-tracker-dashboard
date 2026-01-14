@@ -1,4 +1,4 @@
-HSI Global Market Monitor 📈
+📈 HSI Global Market Cashflow Monitor
 Real-time HSI Algorithmic Dashboard with Global Cash Flow & Inter-Market Correlation.
 A professional, single-file quantitative tool for monitoring market impacts in real-time.
 
