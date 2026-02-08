@@ -1,6 +1,7 @@
-📈 HSI Global Market Cashflow Monitor
+📈 HSI Global Market Cashflow Tracker
 Real-time HSI Algorithmic Dashboard with Global Cash Flow & Inter-Market Correlation.
 A professional, single-file quantitative tool for monitoring market impacts in real-time.
+ ( New version updated @ 08/02/2026 fixed world map/timestamp issue aligning with HK Market)
 
 🚀 Core Overview
 This standalone Python dashboard analyzes the Hang Seng Index (HSI) against 8 major global markets. Built for speed and clarity, it uses a custom impact algorithm to quantify how global volatility shapes HSI movement.
@@ -32,7 +33,7 @@ pip install yfinance pandas plotly dash numpy pytz --upgrade
 
 Run:
 bash
-python main.py or run HSI.exe directly
+[python main.py or run hsi-tracker.exe directly](https://github.com/barrykfl-design/hsi-live-tracker-dashboard/blob/main/hsi-tracker.exe)
 
 
 Access: The dashboard auto-launches at http://127.0.0.1:8050.
